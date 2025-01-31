@@ -9,9 +9,7 @@ ArcGIS Pro is a powerful desktop GIS application by ESRI, designed for advanced 
 - [Conducting a GIS Project](#conducting-a-gis-project)
 - [Preparing Data for Analysis](#preparing-data-for-analysis)
 - [Performing the Analysis](#performing-the-analysis)
-- [Presenting the Results](#presenting-the-results)
 
----
 
 ### Download ArcGIS
 
