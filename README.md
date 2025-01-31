@@ -2,8 +2,8 @@
 
 ArcGIS Pro is a powerful desktop GIS application by ESRI, designed for advanced spatial analysis and data visualization. It features a user-friendly interface, supports 2D and 3D mapping, and integrates with ArcGIS Online, making it ideal for professionals in various fields, including urban planning and environmental management.
 
-- [Download ArcGIS](#download-arcgis)
-- [Install ArcGIS](#install-arcgis)
+- [Download ArcGIS Pro](#download-arcgis-pro)
+- [Install ArcGIS Pro](#install-arcgis-pro)
 - [Getting Started with ArcGIS](#getting-started-with-arcgis)
 - [Exploring ArcCatalog and ArcMap](#exploring-arccatalog-and-arcmap)
 - [Conducting a GIS Project](#conducting-a-gis-project)
@@ -11,7 +11,7 @@ ArcGIS Pro is a powerful desktop GIS application by ESRI, designed for advanced 
 - [Performing the Analysis](#performing-the-analysis)
 
 
-## Download ArcGIS
+## Download ArcGIS Pro
 
 To begin using ArcGIS, you first need to download the software. ESRI provides various versions of ArcGIS, including ArcGIS Desktop, ArcGIS Pro, and ArcGIS Online. Depending on your needs, you can choose the version that best suits your requirements. 
 
@@ -23,7 +23,7 @@ To begin using ArcGIS, you first need to download the software. ESRI provides va
 
 Make sure to check the system requirements for the version you are downloading to ensure compatibility with your operating system.
 
-## Install ArcGIS
+## Install ArcGIS Pro
 
 After downloading the software, the next step is to install it on your computer. The installation process may vary slightly depending on the version you have chosen, but the general steps are as follows:
 
